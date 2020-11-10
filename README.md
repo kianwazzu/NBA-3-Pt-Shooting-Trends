@@ -19,3 +19,7 @@ This figure shows each team as a point for the 2017-18 NBA Season regarding thei
 ![2018-19 NBA Season 3 Point Attempts vs Wins](https://raw.githubusercontent.com/kianwazzu/Personal-Dataset/master/18-19.png)
 
 This figure shows each team as a point for the 2018-19 NBA Season regarding their total wins for the season and average 3 point attempts per game.
+
+![Box Plots For the Seasons 2014-2019](https://github.com/kianwazzu/Personal-Dataset/blob/master/all%20seasons%20boxplots.png)
+
+This shows a boxplot for number of average 3 point attempts for the whole league in the last 5 seasons, in one space.
