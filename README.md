@@ -17,7 +17,7 @@ This shows a boxplot for number of average 3 point attempts for the whole league
 
 ![Ratio of 3PA to 2PA For Seasons 2014-15 to 2018-19](https://github.com/kianwazzu/Personal-Dataset/blob/master/ratio.png)
 
-This different set of box plots shows the ratio of 3PA to 2PA per game for the 5 last 5 seasons to prove that the increase in the amount of 3 point shooting is not an effect of a faster paced game.
+This different set of box plots shows the ratio of 3PA to 2PA per game for the last 5 seasons to prove that the increase in the amount of 3 point shooting is not an effect of a faster paced game.
 
 
 # Analysis
