@@ -5,8 +5,7 @@ I have always been a big fan of basketball at all levels, especially in the NBA.
 
 
 # Data Source
-I was able to obtain all of the data used in my project from the team stats section on the ![NBA Stats Page](https://www.nba.com/stats/teams/traditional/
-sort=W_PCT&dir=-1), which is officially affiliated with the NBA. The website includes essentially all of the commonly tracked basketball statistics for all 32 NBA teams for every season from now (2020) back to 1997, although I only used data from 2015-2019.
+I was able to obtain all of the data used in my project from the team stats section on the ![NBA Stats Page](https://www.nba.com/stats/teams/traditional/?sort=W_PCT&dir=-1), which is officially affiliated with the NBA. The website includes essentially all of the commonly tracked basketball statistics for all 32 NBA teams for every season from now (2020) back to 1997, although I only used data from 2015-2019.
 
 
 ![Box Plots For the Seasons 2014-2019](https://github.com/kianwazzu/Personal-Dataset/blob/master/all%20seasons%20boxplots.png)
