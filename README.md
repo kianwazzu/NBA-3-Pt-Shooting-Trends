@@ -11,9 +11,11 @@ I was able to obtain all of the data used in my project from the team stats sect
 There were only a few steps necessary in cleaning the data. The data was easily accessible and readable via the previously listed ![NBA Stats Page](https://www.nba.com/stats/teams/traditional/?sort=W_PCT&dir=-1). All I had to do to gather this information was select the desired season I wanted to obtain (2015-16 season to 2018-19 season), and copy and paste the entire table into an excel spreadsheet. After this, I deleted all of the columns except the ones corresponding to team name, regular season record, field goals and 3 point field goals per game, and plus minus per game. All that was left to process the data was save the excel spreadsheets and upload them to python for further analysis.
 
 # Visualization
-![Box Plots For the Seasons 2014-2019](https://github.com/kianwazzu/Personal-Dataset/blob/master/all%20seasons%20boxplots.png)
+![Box Plots For the Seasons 2014-15 to 2018-19](https://github.com/kianwazzu/Personal-Dataset/blob/master/all%20seasons%20boxplots.png)
+This shows a boxplot for number of average 3 point attempts for the whole league in the last 5 seasons.
+![Ratio of 3PA to 2PA For Seasons 2014-15 to 2018-19](https://github.com/kianwazzu/Personal-Dataset/blob/master/ratio.png)
+This different set of box plots shows the ratio of 3PA to 2PA per game for the 5 last 5 seasons to prove that the increase in the amount of 3 point shooting is not an effect of a faster paced game.
 
-This shows a boxplot for number of average 3 point attempts for the whole league in the last 5 seasons, in one space.
 
 # Analysis
 After cleaning the data from unwanted information, I loaded each of the 5 seasons into python and made scatterplots for each season comparing 3 Point Attempts per game to Wins, while including the league average which I had to calculate, in hopes of finding applying a linear regression model to the data, however the resulting scatterplots did not show a strong relationship. While making the scatterplots for each season individually I noticed the increase in the league average 3 Point Attempts every season. Using the league average 3 Point Attempts per game I made 5 boxplots in the same space to allow me to visually see how big the increases in 3 pointers were, and the results were pretty convincing in that the amount has increased significantly. To be exact, the league average 3PA/Game in the 2014-15 season was 22.41 and in the 2018-19 season average was 32.01.
