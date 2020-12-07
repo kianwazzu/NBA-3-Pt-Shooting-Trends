@@ -1,6 +1,6 @@
 # Personal-Dataset NBA 3 Point Shooting Over the Last 5 Seasons
 
-#Motivation
+# Motivation
 I have always been a big fan of basketball at all levels, especially in the NBA. One thing I have noticed from watching games and using social media is that many say that the game of basketball has changed or "in today's game," directly referring to the amount of three point shooting. What I originally wanted to figure out was if there was a direct correlation between the amount of 3 point shooting a team does, and the amount of games they win in a season.
 
 
